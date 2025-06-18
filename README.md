@@ -6,4 +6,5 @@ https://github.com/poojithkumar29/upi-transactions/blob/b272bda34da077c42f67e7d5
 # Transaction amount by Column chart:
 ![image alt](https://github.com/poojithkumar29/upi-transactions/blob/68efc0e8ff6f2646f278355b2538027ed2ec8e4a/Transaction%20amount%20by%20Column%20chart.png)
 # Matrix table:
+![image alt](https://github.com/poojithkumar29/upi-transactions/blob/7bdb61b455c13eb3b6dc6d3af361858d2b13beb3/Matrix%20table.png)
 
