@@ -7,60 +7,45 @@ https://github.com/poojithkumar29/upi-transactions/blob/b272bda34da077c42f67e7d5
 ![image alt](https://github.com/poojithkumar29/upi-transactions/blob/68efc0e8ff6f2646f278355b2538027ed2ec8e4a/Transaction%20amount%20by%20Column%20chart.png)
 # Matrix table:
 ![image alt](https://github.com/poojithkumar29/upi-transactions/blob/7bdb61b455c13eb3b6dc6d3af361858d2b13beb3/Matrix%20table.png)
-📊 What I did in this project :
- # Data Modeling & Cleaning
 
-Imported raw UPI transaction data into Power BI.
-Cleaned and transformed the data using Power Query Editor.
-Built a data model connecting various fields such as:
-City
-Bank Names
-Merchant Names
-Age Groups
-Device Types
-Transaction Types
-Filters (Slicers)
+Here’s a concise summary of the README for the **poiithkumar29/upi-transactions** repository, which showcases a Power BI dashboard for UPI transaction analysis:
 
-Provided interactive slicers to filter data globally across different views:
-Bank Name Sent
-Bank Name Received
-City
-Device Type
-Gender
-Age Groups
-Merchant Name
-Payment Method
-Purpose
-Transaction Type
-Bookmarks on Page 1
+---
 
- # Transactions by Month (2024):
-Line chart
-Column chart
- # Remaining Balance by Month (2024):
-Line chart
-Column chart
-These bookmarks are overlaid and synced with slicers for easy navigation between chart types (Line & Column) and data filters.
-City-Wise Financial Table
+## 📊 UPI Transactions Dashboard in Power BI
 
-# A matrix table displaying:
-Total Transaction Amounts
-Remaining Balances
-Grouped by month and city (Bangalore, Delhi, Hyderabad, Mumbai).
-Synced with slicers for dynamic analysis.
-🛠 Tools & Features Used
-Power BI Desktop for dashboard development.
-Power Query for data cleaning and transformation.
-DAX Measures for advanced calculations.
-Interactive Slicers for user customization.
-Bookmarks for switching between different chart types.
-Dark Modern Theme for the dashboard UI.
-Drill-Through Friendly Setup for detailed analysis.
-# 💼 Skills Demonstrated
-Intermediate Power BI Development: Data modeling, DAX calculations, and dynamic reporting.
-Dashboard UI/UX Design: Creating user-friendly and interactive reports.
-Data Modelling and Cleaning: Efficient handling and transformation of raw data.
-Bookmark and Interactive Reporting: Enhanced user experience with customizable views and filters.
-Financial Data Analysis: Insights into financial transactions across different demographics and cities.
 
+**Key Visuals:**
+
+* **Line & Column Charts**: Track monthly transaction volumes and remaining balances (e.g., 2024).
+* **Matrix Table**: Displays aggregated transaction amounts and balances grouped by month and city (like Bangalore, Delhi, Hyderabad, Mumbai)—interactive with slicers.
+
+**Data Model & Cleaning:**
+
+* Raw UPI data ingested into Power BI.
+* Cleaned/transformed using Power Query.
+* Data model connects key fields: City, Bank (sender/receiver), Merchant, Age Group, Device Type, Transaction Type.
+* Interactive slicers include filters like Bank Name, City, Device Type, Gender, Age Group, Merchant, Payment Method, Purpose, and Transaction Type.
+
+**Interactive Features:**
+
+* **Slicers & Bookmarks**: Enable global filtering and switching between line/chart views.
+* **Drill‑through Setup**: Dive deeper into detailed data from the dashboard.
+
+**Tools & Techniques:**
+
+* **Power BI Desktop** for report design.
+* **Power Query** for ETL processes.
+* **DAX measures** for calculations.
+* **Interactive UI**: Slicers + bookmarks enhance user experience.
+* **Modern Theme** and drill-friendly design present polished visuals.
+
+**Skills Demonstrated:**
+
+* Intermediate dashboard development;
+* Advanced data cleaning & modeling;
+* Dynamic reporting (interactive filters/bookmarks);
+* Financial trend analysis across demographics and cities.
+
+---
 
